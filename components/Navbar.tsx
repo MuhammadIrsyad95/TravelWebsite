@@ -26,6 +26,7 @@ const Navbar = () => {
         variant = "btn_dark_green"
         />
         </div>
+        
 
         <Image
         src="menu.svg"
